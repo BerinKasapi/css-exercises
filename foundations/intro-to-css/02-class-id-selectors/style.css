@@ -1,1 +1,21 @@
 /* Add CSS Styling */
+p.line,{
+    background-color: pink;
+    font-family: Verdana, DejaVu Sans sans serif; 
+}
+
+#berin{
+    color:rgb( blue);
+    font-size: 36px;
+
+}
+
+.cool{    background-color: pink;
+    font-family: Verdana, DejaVu Sans sans serif; 
+font-size: 24px;}
+
+#abc{
+    background-color: limegreen;
+    font-weight: bold;
+    font size: 24px;
+}
